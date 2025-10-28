@@ -1,19 +1,21 @@
-h1{color: rgb(228, 10, 101);
-font-size: 55px;
-font-family: 'Courier New', Courier, monospace;
-text-align: center;
-margin: 50px;
-padding: 50px;
-text-decoration: dotted;
-}
-.titulo1{color: blue;}
+h1{color: darkmagenta;
+font-family: cursive;}
 
-p{color: rgb(196, 124, 115);
-font-size: 40px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-text-align: center;
+
+
+p{color: rgb(76, 59, 138);
+font-size: 25px;
 }
-.texto1{color: rgb(28, 139, 0);}
-.texto2{color: deeppink;}
-.texto3{color: greenyellow;}
-body{background-color: rgb(9, 78, 95);}
+.ti1{color: darkorchid;}
+.ti2{color: darkblue;}
+.ti3{color: mediumpurple;}
+h2{color: rgb(107, 18, 107);
+font-family: cursive;
+}
+strong{color: darkslateblue;}
+li{color: rgb(92, 92, 155);
+font-size: 19px;}
+footer{color: slategray;}
+body{background-color: rgb(200, 226, 226);}
+
+
