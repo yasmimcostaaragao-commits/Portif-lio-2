@@ -1,0 +1,19 @@
+h1{color: rgb(228, 10, 101);
+font-size: 55px;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+margin: 50px;
+padding: 50px;
+text-decoration: dotted;
+}
+.titulo1{color: blue;}
+
+p{color: rgb(196, 124, 115);
+font-size: 40px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+}
+.texto1{color: rgb(28, 139, 0);}
+.texto2{color: deeppink;}
+.texto3{color: greenyellow;}
+body{background-color: rgb(9, 78, 95);}
